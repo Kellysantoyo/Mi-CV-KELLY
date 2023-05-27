@@ -1,0 +1,29 @@
+
+h1 {
+    width: 100%;
+    background-color: #D7CCC8;
+    "text-align:center";
+}
+
+.imagen-profile{
+    border: grey 7px dotted;
+    width: 200px; height: 300px;
+    text-align:center;
+    margin-top: 10px;
+    "text-align:center";
+   }
+
+
+.profile-description{
+font-family:Arial;
+text-align:justify;
+font-size: 6px;
+inline-block;
+} 
+body {
+    background-color: #FFFFE0
+}
+
+p{
+    text-align:justify;
+}
